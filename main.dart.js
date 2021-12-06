@@ -31874,7 +31874,7 @@ p=0
 case 3:if(!(p<4)){s=5
 break}o=C.yz[p]
 s=6
-return P.ac(G.aiC("https://rest.coinapi.io/v1/exchangerate/"+o+"/"+a+"?apikey=9BA7389F-B93A-435C-A4D4-1A03E6052C83"),$async$me)
+return P.ac(G.aiC("https://rest.coinapi.io/v1/exchangerate/"+o+"/"+a+"?apikey=2691D291-90F4-41A3-97C6-149E60F9AF3C"),$async$me)
 case 6:n=c
 k=n.b
 if(k===200){k=n.e
